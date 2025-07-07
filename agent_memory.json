@@ -1,0 +1,153 @@
+[
+    {
+        "type": "failure",
+        "reason": "Action 'Retreat' failed: Failed to retreat; the enemy blocked the path.",
+        "plan": [
+            "Retreat",
+            "SearchForPotion",
+            "HealSelf"
+        ],
+        "world_state": {
+            "health": 20,
+            "stamina": 5,
+            "potionCount": 0,
+            "treasureThreatLevel": "medium",
+            "enemyNearby": true,
+            "isInSafeZone": false
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'SearchForPotion' failed: Searched the area but found no potions.",
+        "plan": [
+            "Retreat",
+            "SearchForPotion",
+            "HealSelf"
+        ],
+        "world_state": {
+            "health": 20,
+            "stamina": 5,
+            "potionCount": 0,
+            "treasureThreatLevel": "medium",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
+        "plan": [],
+        "world_state": {
+            "health": 20,
+            "stamina": 5,
+            "potionCount": 0,
+            "treasureThreatLevel": "medium",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
+        "plan": [],
+        "world_state": {
+            "health": 20,
+            "stamina": 5,
+            "potionCount": 0,
+            "treasureThreatLevel": "medium",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
+        "plan": [],
+        "world_state": {
+            "health": 20,
+            "stamina": 5,
+            "potionCount": 0,
+            "treasureThreatLevel": "medium",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
+        "plan": [],
+        "world_state": {
+            "health": 20,
+            "stamina": 5,
+            "potionCount": 0,
+            "treasureThreatLevel": "medium",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
+        "plan": [],
+        "world_state": {
+            "health": 20,
+            "stamina": 5,
+            "potionCount": 0,
+            "treasureThreatLevel": "medium",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
+        "plan": [],
+        "world_state": {
+            "health": 20,
+            "stamina": 5,
+            "potionCount": 0,
+            "treasureThreatLevel": "medium",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
+        "plan": [],
+        "world_state": {
+            "health": 20,
+            "stamina": 5,
+            "potionCount": 0,
+            "treasureThreatLevel": "medium",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
+        "plan": [],
+        "world_state": {
+            "health": 20,
+            "stamina": 5,
+            "potionCount": 0,
+            "treasureThreatLevel": "medium",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
+        "plan": [],
+        "world_state": {
+            "health": 20,
+            "stamina": 5,
+            "potionCount": 0,
+            "treasureThreatLevel": "medium",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    }
+]
