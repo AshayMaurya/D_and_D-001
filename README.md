@@ -50,4 +50,3 @@ Follow these instructions to run the Dungeon Guardian simulation on your own mac
 
 ### 2. Clone the Repository
 git clone https://github.com/AshayMaurya/D_and_D-001.git
-cd D_and_D-001
