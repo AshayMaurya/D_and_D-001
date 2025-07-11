@@ -1,19 +1,436 @@
 [
     {
         "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 70,
+            "stamina": 2,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 70,
+            "stamina": 2,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 70,
+            "stamina": 2,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 70,
+            "stamina": 2,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 70,
+            "stamina": 2,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 70,
+            "stamina": 2,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 70,
+            "stamina": 2,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 70,
+            "stamina": 2,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 70,
+            "stamina": 2,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 70,
+            "stamina": 2,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
         "reason": "Action 'Retreat' failed: Failed to retreat; the enemy blocked the path.",
+        "plan": [
+            "Retreat"
+        ],
+        "world_state": {
+            "health": 85,
+            "stamina": 15,
+            "potionCount": 1,
+            "treasureThreatLevel": "high",
+            "enemyNearby": true,
+            "isInSafeZone": false
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Retreat' failed: Failed to retreat; the enemy blocked the path.",
+        "plan": [
+            "Retreat"
+        ],
+        "world_state": {
+            "health": 85,
+            "stamina": 15,
+            "potionCount": 1,
+            "treasureThreatLevel": "high",
+            "enemyNearby": true,
+            "isInSafeZone": false
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
         "plan": [
             "Retreat",
             "SearchForPotion",
-            "HealSelf"
+            "Rest",
+            "Rest",
+            "Rest",
+            "Rest"
         ],
         "world_state": {
-            "health": 20,
-            "stamina": 5,
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest",
+            "Rest"
+        ],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 1,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'Survive'.",
+        "plan": [],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
             "potionCount": 0,
-            "treasureThreatLevel": "medium",
+            "treasureThreatLevel": "low",
             "enemyNearby": true,
             "isInSafeZone": false
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'Survive'.",
+        "plan": [],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 0,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'Survive'.",
+        "plan": [],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 0,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
+        }
+    },
+    {
+        "type": "failure",
+        "reason": "Could not find a plan for goal 'Survive'.",
+        "plan": [],
+        "world_state": {
+            "health": 60,
+            "stamina": 10,
+            "potionCount": 0,
+            "treasureThreatLevel": "low",
+            "enemyNearby": false,
+            "isInSafeZone": true
         }
     },
     {
@@ -22,130 +439,35 @@
         "plan": [
             "Retreat",
             "SearchForPotion",
-            "HealSelf"
+            "Rest",
+            "Rest",
+            "Rest",
+            "Rest"
         ],
         "world_state": {
-            "health": 20,
-            "stamina": 5,
+            "health": 60,
+            "stamina": 10,
             "potionCount": 0,
-            "treasureThreatLevel": "medium",
+            "treasureThreatLevel": "low",
             "enemyNearby": false,
             "isInSafeZone": true
         }
     },
     {
         "type": "failure",
-        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
-        "plan": [],
+        "reason": "Action 'Rest' failed: ",
+        "plan": [
+            "Rest",
+            "Rest",
+            "Rest",
+            "SearchForPotion",
+            "Rest"
+        ],
         "world_state": {
-            "health": 20,
-            "stamina": 5,
+            "health": 60,
+            "stamina": 10,
             "potionCount": 0,
-            "treasureThreatLevel": "medium",
-            "enemyNearby": false,
-            "isInSafeZone": true
-        }
-    },
-    {
-        "type": "failure",
-        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
-        "plan": [],
-        "world_state": {
-            "health": 20,
-            "stamina": 5,
-            "potionCount": 0,
-            "treasureThreatLevel": "medium",
-            "enemyNearby": false,
-            "isInSafeZone": true
-        }
-    },
-    {
-        "type": "failure",
-        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
-        "plan": [],
-        "world_state": {
-            "health": 20,
-            "stamina": 5,
-            "potionCount": 0,
-            "treasureThreatLevel": "medium",
-            "enemyNearby": false,
-            "isInSafeZone": true
-        }
-    },
-    {
-        "type": "failure",
-        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
-        "plan": [],
-        "world_state": {
-            "health": 20,
-            "stamina": 5,
-            "potionCount": 0,
-            "treasureThreatLevel": "medium",
-            "enemyNearby": false,
-            "isInSafeZone": true
-        }
-    },
-    {
-        "type": "failure",
-        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
-        "plan": [],
-        "world_state": {
-            "health": 20,
-            "stamina": 5,
-            "potionCount": 0,
-            "treasureThreatLevel": "medium",
-            "enemyNearby": false,
-            "isInSafeZone": true
-        }
-    },
-    {
-        "type": "failure",
-        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
-        "plan": [],
-        "world_state": {
-            "health": 20,
-            "stamina": 5,
-            "potionCount": 0,
-            "treasureThreatLevel": "medium",
-            "enemyNearby": false,
-            "isInSafeZone": true
-        }
-    },
-    {
-        "type": "failure",
-        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
-        "plan": [],
-        "world_state": {
-            "health": 20,
-            "stamina": 5,
-            "potionCount": 0,
-            "treasureThreatLevel": "medium",
-            "enemyNearby": false,
-            "isInSafeZone": true
-        }
-    },
-    {
-        "type": "failure",
-        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
-        "plan": [],
-        "world_state": {
-            "health": 20,
-            "stamina": 5,
-            "potionCount": 0,
-            "treasureThreatLevel": "medium",
-            "enemyNearby": false,
-            "isInSafeZone": true
-        }
-    },
-    {
-        "type": "failure",
-        "reason": "Could not find a plan for goal 'PrepareForBattle'.",
-        "plan": [],
-        "world_state": {
-            "health": 20,
-            "stamina": 5,
-            "potionCount": 0,
-            "treasureThreatLevel": "medium",
+            "treasureThreatLevel": "low",
             "enemyNearby": false,
             "isInSafeZone": true
         }
