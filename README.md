@@ -49,6 +49,5 @@ Follow these instructions to run the Dungeon Guardian simulation on your own mac
 *   Git
 
 ### 2. Clone the Repository
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/AshayMaurya/D_and_D-001.git
+cd D_and_D-001
